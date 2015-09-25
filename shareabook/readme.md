@@ -115,3 +115,28 @@ The ultimate cost of purchase will be initial cost divided by
 the number of users that purchased the book. So if in the
 lifetime of a book, it is purchased by 4 users, each user
 will have ultimately paid 1/4 of the price.
+
+## Features
+### Search for a Book
+
+	shareabook search [Book Name] [Author]?
+	shareabook search [-field value]+
+
+### Buy Book
+
+	shareabook buy [bookid] [username] [password]
+
+### Sell a book
+
+	shareabook sell [bookid] [username] [password]
+
+### View Information
+
+	shareabook view library [username] [password]
+	shareabook view information [username] [password]
+
+### Set up Personal Information
+
+	shareabook setup signup [username] [password] [email]
+	shareabook setup address [address] [username] [password]
+	shareabook setup email [email] [username] [password]
