@@ -1,0 +1,18 @@
+A tale of two worlds
+
+There a two modes of computer interfaces, and
+there are two modes of computing. The first and
+older is classic computing which involves processes
+and which later extends to windows. Everything is done
+in the machine that the user is using. The second younger
+version is web computing, in which the interfaces reside
+in the local computer while, the underlying process can
+be located anywhere. For individual users, this means
+a sharp dichotomy of usage. A lot of time is spent
+switching between the local machine and the cloud.
+It is clearly better to have a hundred operations on
+a single data struture, than ten operations on ten
+data structures. For the sake of simplicity there is a
+need to simplify the interface. This dichotomy is a drain
+on the user. The real question is how do we bridge the gap
+and create a unfied interface?
